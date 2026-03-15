@@ -48,7 +48,7 @@ $y-medium: 1.0rem;
     color: $black;
     font-family: $font-family;
     font-size: $font-size;
-    line-height: 1.2;
+    line-height: 1.6;
 }
 .container {
     max-width: $max-width;
@@ -113,6 +113,7 @@ $y-medium: 1.0rem;
         & > li {
             list-style-position: outside;
             margin-left: 1em;
+            margin-bottom: 0.4rem;
         }
     }
     .container > ul, .footnotes > ul {

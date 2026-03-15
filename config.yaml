@@ -17,8 +17,8 @@ params:
     text: Antoni Mut Piña · Universitat de les Illes Balears
     url: ""
   style:
-    fontFamily: Fira Sans
-    fontSize: 14pt
+    fontFamily: Inconsolata
+    fontSize: 13pt
     pageWidth: 800px
     avatarSize: 110px
     colorBlack: "#1a2c4e"
