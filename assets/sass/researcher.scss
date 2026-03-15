@@ -95,6 +95,7 @@ $y-medium: 1.0rem;
         padding-left: 2rem;
         & > li {
             display: table-row;
+            font-size: $font-size;
         }
         & > li:before {
             content: "[" counter(list, decimal) "] ";
@@ -102,6 +103,7 @@ $y-medium: 1.0rem;
             display: table-cell;
             text-align: right;
             padding-right: .5em;
+            font-size: $font-size;
         }
     }
     .container > ol, .footnotes > ol {
