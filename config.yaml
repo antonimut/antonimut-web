@@ -1,136 +1,58 @@
 baseURL: https://antonimutpina.netlify.app/
-theme: hugo-apero
+theme: hugo-researcher
 languageCode: en
 title: Antoni Mut Piña
-author: Antoni Mut Piña
-copyright: ''
-googleAnalytics: ''
-metaDataFormat: yaml
-footnoteReturnLinkContents: '&#8617;'
-pagination:
-  enableEmoji: true
-  ignoreFiles:
-    - \.Rmd$
-    - \.Rmarkdown$
-    - _cache$
-    - \.knit\.md$
-    - \.utf8\.md$
-  pagerSize: 5
-  preserveTaxonomyNames: true
+disableKinds:
+  - taxonomy
+  - term
+enableEmoji: true
+math: false
+
+params:
+  author: Antoni Mut Piña
+  description: Researcher in empirical analysis of law, consumer contracting in financial markets, and regulation of emerging technologies. Assistant Lecturer at UIB.
+  favicon: favicon.ico
+  logo: ""
+  footer:
+    text: Antoni Mut Piña · Universitat de les Illes Balears
+    url: ""
+  style:
+    fontFamily: Inconsolata
+    fontSize: 14pt
+    pageWidth: 800px
+    avatarSize: 110px
+    colorBlack: "#1a2c4e"
+    colorRed: "#8b0000"
+  socialIcons:
+    - icon: fas fa-envelope
+      title: Email
+      url: mailto:antoni.mut@uib.cat
+    - icon: ai ai-orcid
+      title: ORCID
+      url: https://orcid.org/0000-0001-7841-5992
+
+permalinks:
+  "/": "/:filename"
+
+menu:
+  main:
+    - name: About
+      url: /
+      weight: 1
+    - name: Publications
+      url: /publications
+      weight: 2
+    - name: Talks
+      url: /talks
+      weight: 3
+    - name: Projects
+      url: /projects
+      weight: 4
+    - name: CV
+      url: /cv
+      weight: 5
+
 markup:
-  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      hardwraps: false
       unsafe: true
-  highlight:
-    style: github
-  tableOfContents:
-    endLevel: 2
-    ordered: false
-    startLevel: 2
-params:
-  comments: utterances
-  custom_theme: ''
-  customheadingFontFamily: Fraunces
-  customtextFontFamily: Commissioner
-  description: Researcher in empirical analysis of law, consumer contracting, and regulation of emerging technologies. Assistant Lecturer at UIB.
-  favicon: /img/favicon.ico
-  giscus:
-    category: Comments
-    category_id: '[category ID]'
-    emit_metadata: '0'
-    lang: en
-    mapping: pathname
-    reactions_enabled: '1'
-    repo: apreshill/apero
-    repo_id: '[REPO ID]='
-    theme: light
-  headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
-  mainSections:
-    - blog
-    - project
-    - talk
-  math:
-    renderer: katex
-  navallcaps: true
-  orgLocal: Palma de Mallorca, Spain
-  orgName: Universitat de les Illes Balears
-  sharing_image: /img/papillons.jpg
-  social:
-    - icon: envelope
-      icon_pack: fas
-      url: mailto:antoni.mut@uib.cat
-    - icon: orcid
-      icon_pack: ai
-      url: https://orcid.org/0000-0001-7841-5992
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
-  socialInFooter: true
-  socialInHeader: false
-  textFontFamily: sans-serif
-  theme: sky
-  twitter: ''
-  utterances:
-    issue_term: pathname
-    label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
-    theme: boxy-light
-taxonomies:
-  category: categories
-  series: series
-  tag: tags
-menu:
-  footer:
-    - name: License
-      title: License
-      url: /license/
-      weight: 1
-    - name: Contact
-      title: Contact form
-      url: /contact/
-      weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
-  header:
-    - name: About
-      title: About
-      url: /about/
-      weight: 1
-    - name: Research
-      title: Research Projects
-      url: /project/
-      weight: 2
-    - name: Publications
-      title: Publications
-      url: /blog/
-      weight: 3
-    - name: Talks
-      title: Conference Presentations
-      url: /talk/
-      weight: 4
-privacy:
-  disqus:
-    disable: false
-  googleAnalytics:
-    anonymizeIP: true
-    disable: false
-    respectDoNotTrack: true
-  instagram:
-    disable: false
-    simple: true
-  vimeo:
-    disable: false
-    enableDNT: true
-    simple: true
-  x:
-    disable: false
-    enableDNT: true
-    simple: false
-  youtube:
-    disable: false
-    privacyEnhanced: true
