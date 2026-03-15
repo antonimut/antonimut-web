@@ -48,8 +48,8 @@ menu:
     - name: Projects
       url: /projects
       weight: 4
-    - name: CV
-      url: /cv
+    - name: News
+      url: /blog
       weight: 5
 
 markup:
