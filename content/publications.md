@@ -20,6 +20,8 @@ title = "Publications"
 
 #### Book Chapters
 
-1. *Anticipatory Regulation for Service Robotics Safety.* **Springer Proceedings in Advanced Robotics** (2025). With Fosch-Villaronga, E. ISBN 978-3-031-89471-8. [doi:10.1007/978-3-031-89471-8_28](https://doi.org/10.1007/978-3-031-89471-8_28)
+1. *El consumidor vulnerable: una categoría por delimitar.* **Vulnerabilidad, sostenibilidad y efectividad en la contratación de consumo**, Marcial Pons (2025). pp. 31–52. ISBN 979-13-87913-43-4. [doi:10.37417/VSECC/01](https://doi.org/10.37417/VSECC/01)
 
-2. *La vulnerabilidad en las relaciones de consumo y los deberes de información: un análisis empírico.* **Vulnerabilidad patrimonial: retos jurídicos**, Aranzadi (Thomson Reuters) (2022). pp. 221–244. ISBN 978-84-1124-840-2.
+2. *Anticipatory Regulation for Service Robotics Safety.* **Springer Proceedings in Advanced Robotics** (2025). With Fosch-Villaronga, E. ISBN 978-3-031-89471-8. [doi:10.1007/978-3-031-89471-8_28](https://doi.org/10.1007/978-3-031-89471-8_28)
+
+3. *La vulnerabilidad en las relaciones de consumo y los deberes de información: un análisis empírico.* **Vulnerabilidad patrimonial: retos jurídicos**, Aranzadi (Thomson Reuters) (2022). pp. 221–244. ISBN 978-84-1124-840-2.

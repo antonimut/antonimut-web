@@ -1,6 +1,6 @@
 +++
 title = "Welcome to my blog!"
-date = "2026-03-15"
+date = "2025-03-15"
 +++
 
 #### Hello and welcome to my blog!
