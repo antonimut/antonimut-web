@@ -8,9 +8,7 @@ editor_options:
   <img src="/avatar_2.jpg" style="border-radius:50%; width:150px; height:150px; object-fit:cover; flex-shrink:0;">
   <div>
 
-**Mut-Piña, Antoni (PhD)**, Assistant Professor in Financial Economics, Department of Business Economics, Universitat de les Illes Balears (UIB).
-
-[antoni.mut@uib.cat](mailto:antoni.mut@uib.cat) · Office DB012, Edifici Melchor de Jovellanos
+**Mut-Piña, Antoni (PhD)**, Assistant Professor in Financial Economics, Department of Business Economics, Universitat de les Illes Balears (UIB). [antoni.mut@uib.cat](mailto:antoni.mut@uib.cat), Office DB012, Edifici Melchor de Jovellanos
 
 </div>
 </div>
@@ -25,6 +23,8 @@ I completed my PhD in Law and Political Science at the Universitat de Barcelona 
 
 Since September 2025 I hold a position as Assistant Lecturer at the Department of Business Economics, Universitat de les Illes Balears (UIB), in the area of Financial Economics.
 
+------------------------------------------------------------------------
+
 #### Education
 
 -   **2020--2024**, PhD in Law and Political Science, *Universitat de Barcelona*, [\[Thesis\]](https://diposit.ub.edu/items/72fae6fd-e369-4d70-b2ae-9521a500ef40)
@@ -36,6 +36,8 @@ Since September 2025 I hold a position as Assistant Lecturer at the Department o
 -   **2012--2017**, Bachelor in Business Administration, *Universitat de Barcelona*
 
 -   **2012--2017**, Law Degree, *Universitat de Barcelona*
+
+------------------------------------------------------------------------
 
 #### Professional Experience
 
