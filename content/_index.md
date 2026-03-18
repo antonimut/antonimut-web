@@ -4,11 +4,14 @@ editor_options:
     wrap: 72
 ---
 
-**Mut-Piña, Antoni (PhD)**, Assistant Professor in Financial
-Economics, Department of Business Economics, Universitat de les Illes
-Balears (UIB).
+<div style="display:flex; align-items:center; gap:2rem; margin-bottom:2rem;">
+  <img src="/avatar_2.jpg" style="border-radius:50%; width:150px; height:150px; object-fit:cover; flex-shrink:0;">
+  <div>
 
-![](/avatar_2.jpg)
+**Mut-Piña, Antoni (PhD)**, Assistant Professor in Financial Economics, Department of Business Economics, Universitat de les Illes Balears (UIB).
+
+  </div>
+</div>
 
 ------------------------------------------------------------------------
 
