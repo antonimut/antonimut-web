@@ -10,7 +10,9 @@ editor_options:
 
 **Mut-Piña, Antoni (PhD)**, Assistant Professor in Financial Economics, Department of Business Economics, Universitat de les Illes Balears (UIB).
 
-  </div>
+[antoni.mut@uib.cat](mailto:antoni.mut@uib.cat) · Office DB012, Edifici Melchor de Jovellanos
+
+</div>
 </div>
 
 ------------------------------------------------------------------------
