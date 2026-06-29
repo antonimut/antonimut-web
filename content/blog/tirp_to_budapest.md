@@ -1,6 +1,6 @@
 ---
-title: "Visiting Von Neuman's Birthplace in Budapest"
-output: html_document
+title: "Visiting Von Neumann's Birthplace in Budapest"
+date: "2026-04-20"
 ---
 
 This Easter break I've been visiting Budapest together with my in-laws. 
