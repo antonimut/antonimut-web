@@ -19,7 +19,7 @@ editor_options:
 
 I am a researcher with a multidisciplinary profile spanning law and empirical methods. My work focuses on the empirical analysis of law --- particularly consumer contracting in financial markets, consumer vulnerability, and the regulation of emerging technologies such as autonomous systems.
 
-I completed my PhD in Law and Political Science at the Universitat de Barcelona (2024, *cum laude*, international mention), where my dissertation examined market transparency and vulnerable consumers in the financial sector. I subsequently joined Leiden University as a postdoctoral researcher within the ERC Starting Grant project *Safe & Sound*, focused on evidence-based regulation of healthcare robots.
+I completed my PhD at the Universitat de Barcelona (2024, *cum laude*, international mention), where my dissertation examined market transparency and vulnerable consumers in the financial sector. I subsequently joined Leiden University as a postdoctoral researcher within the ERC Starting Grant project *Safe & Sound*, focused on evidence-based regulation of healthcare robots.
 
 Since September 2025 I hold a position as Assistant Lecturer at the Department of Business Economics, Universitat de les Illes Balears (UIB), in the area of Financial Economics.
 
