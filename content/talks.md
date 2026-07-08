@@ -4,8 +4,7 @@ title = "Conference Presentations"
 
 #### Presentations 
 
-1. *Transparency and AI at work: An empirical study of job seekers’ and workers’ perspectives*  ICONS Annual Conference. Ireland, 30/06/2025. W
-ith Carlotta Rigotti, Daniel Alves and Eduard Fosch-Villaronga
+1. *Transparency and AI at work: An empirical study of job seekers’ and workers’ perspectives*  ICONS Annual Conference. Ireland, 30/06/2025. With Carlotta Rigotti, Daniel Alves and Eduard Fosch-Villaronga
 
 2. *Do Safety Frameworks Improve Trust in Service Robots?* Lawtomation. Technology and (Dis)Trust, 4th Edition, Spain, 03/10/2025. With Fosch-Villaronga, E.
 
