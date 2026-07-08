@@ -17,7 +17,7 @@ editor_options:
 
 #### Biography
 
-I am a researcher with a multidisciplinary profile spanning law, political science, and empirical methods. My work focuses on the empirical analysis of law --- particularly consumer contracting in financial markets, consumer vulnerability, and the regulation of emerging technologies such as autonomous systems.
+I am a researcher with a multidisciplinary profile spanning law and empirical methods. My work focuses on the empirical analysis of law --- particularly consumer contracting in financial markets, consumer vulnerability, and the regulation of emerging technologies such as autonomous systems.
 
 I completed my PhD in Law and Political Science at the Universitat de Barcelona (2024, *cum laude*, international mention), where my dissertation examined market transparency and vulnerable consumers in the financial sector. I subsequently joined Leiden University as a postdoctoral researcher within the ERC Starting Grant project *Safe & Sound*, focused on evidence-based regulation of healthcare robots.
 
@@ -41,7 +41,7 @@ Since September 2025 I hold a position as Assistant Lecturer at the Department o
 
 #### Professional Experience
 
--   **2025--2032**, Assistant Lecturer with a PhD, *Universitat de les Illes Balears (UIB)*, Department of Business Economics, Area of Financial Economics
+-   **2025--2032**, Assistant Professor, *Universitat de les Illes Balears (UIB)*, Department of Business Economics, Area of Financial Economics
 
 -   **2024--2025**, Postdoctoral Researcher, *Leiden University, The Netherlands*, ERC Starting Grant project *Safe & Sound* (PI: Dr. Eduard Fosch-Villaronga), Regulation of autonomous systems and European project management
 

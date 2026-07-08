@@ -23,3 +23,4 @@ title = "Publications"
 2. *Anticipatory Regulation for Service Robotics Safety.* **Springer Proceedings in Advanced Robotics** (2025). With Fosch-Villaronga, E. ISBN 978-3-031-89471-8. [doi:10.1007/978-3-031-89471-8_28](https://doi.org/10.1007/978-3-031-89471-8_28)
 
 3. *La vulnerabilidad en las relaciones de consumo y los deberes de información: un análisis empírico.* **Vulnerabilidad patrimonial: retos jurídicos**, Aranzadi (Thomson Reuters) (2022). pp. 221–244. ISBN 978-84-1124-840-2.
+
