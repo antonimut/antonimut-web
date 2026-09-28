@@ -6,6 +6,8 @@ title = "Working Papers"
 
 **Antoni Mut-Piña** (Universitat de les Illes Balears), **Rosa Barceló-Compte** (Universitat de Barcelona), **Carlotta Rigotti** (Leiden University) & **Eduard Fosch-Villaronga** (Leiden University)
 
+[**Download preprint (PDF)**](/papers/mut-pina_et_al_2026_limits_platform_observability.pdf) · September 2026
+
 ---
 
 **Research question:** To what extent do the statements of reasons submitted by dating apps to the DSA Transparency Database under Article 17 DSA enable meaningful observability of their content moderation practices?
