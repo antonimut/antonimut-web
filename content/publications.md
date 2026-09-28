@@ -4,17 +4,23 @@ title = "Publications"
 
 #### Journal Articles
 
-1. *Definitional Ambiguities in Physical Assistant Robots and Their Regulatory Implications: A Systematic Review.* **Robotics and Autonomous Systems** (2026). With Mohammed Raiz Shaffique, Eduard Fosch-Villaronga, and Simone van der Hof. [https://doi.org/10.1016/j.robot.2026.105599](https://doi.org/10.1016/j.robot.2026.105599)
+1. *A Systematic Review of the Definitions for Social Robots in Regulation and Its Implications for Researchers and Developers.* **International Journal of Social Robotics** 18(7) (2026). With Schwed-Shenker, M., Fosch-Villaronga, E., and Custers, B. [doi:10.1007/s12369-026-01429-4](https://doi.org/10.1007/s12369-026-01429-4)
 
-2. *Transparency in the datafied workplace: Law, workers, and job applicant perspectives.* **Technology in Society** (2026). With Rigotti, C., Alves, D., and Fosch-Villaronga, E. [https://doi.org/10.1016/j.techsoc.2026.103387](https://doi.org/10.1016/j.techsoc.2026.103387)
+2. *Definitional Ambiguities in Physical Assistant Robots and Their Regulatory Implications: A Systematic Review.* **Robotics and Autonomous Systems** (2026). With Mohammed Raiz Shaffique, Eduard Fosch-Villaronga, and Simone van der Hof. [https://doi.org/10.1016/j.robot.2026.105599](https://doi.org/10.1016/j.robot.2026.105599)
 
-3. *Misgendering algorithms: Insights from a cross-sectional survey on algorithmic gender classification in social media.* **Technology in Society** (2025). With Fosch-Villaronga, E., Verhoef, T., Poulsen, A., Søraa, R. A., Custers, B. [doi:10.1016/j.techsoc.2025.103110](https://doi.org/10.1016/j.techsoc.2025.103110)
+3. *Transparency in the datafied workplace: Law, workers, and job applicant perspectives.* **Technology in Society** (2026). With Rigotti, C., Alves, D., and Fosch-Villaronga, E. [https://doi.org/10.1016/j.techsoc.2026.103387](https://doi.org/10.1016/j.techsoc.2026.103387)
 
-4. *User perceptions of misgendering algorithms.* **Big Data & Society** (2025). With Fosch-Villaronga, E., Verhoef, T., Poulsen, A., Søraa, R. A., Drukarch, H., Noel, A., Tunney, S., Custers, B. [doi:10.1177/20539517251398719](https://doi.org/10.1177/20539517251398719)
+4. *Misgendering algorithms: Insights from a cross-sectional survey on algorithmic gender classification in social media.* **Technology in Society** (2025). With Fosch-Villaronga, E., Verhoef, T., Poulsen, A., Søraa, R. A., Custers, B. [doi:10.1016/j.techsoc.2025.103110](https://doi.org/10.1016/j.techsoc.2025.103110)
 
-5. *Science for Robot Policy: Advancing robotics policy through the EU science for policy approach.* **Technological Forecasting and Social Change** (2025). With Fosch-Villaronga, E., Shaffique, M. R., Schwed-Shenker, M., Hof, S. v. d., Custers, B. [doi:10.1016/j.techfore.2025.124202](https://doi.org/10.1016/j.techfore.2025.124202)
+5. *User perceptions of misgendering algorithms.* **Big Data & Society** (2025). With Fosch-Villaronga, E., Verhoef, T., Poulsen, A., Søraa, R. A., Drukarch, H., Noel, A., Tunney, S., Custers, B. [doi:10.1177/20539517251398719](https://doi.org/10.1177/20539517251398719)
 
-6. *Exploring fairness in service robotics.* **Cambridge Forum on AI: Law and Governance** (2025). With Fosch-Villaronga, E., Shaffique, M. R., Schwed-Shenker, M. [doi:10.1017/cfl.2025.10013](https://doi.org/10.1017/cfl.2025.10013)
+6. *Science for Robot Policy: Advancing robotics policy through the EU science for policy approach.* **Technological Forecasting and Social Change** (2025). With Fosch-Villaronga, E., Shaffique, M. R., Schwed-Shenker, M., Hof, S. v. d., Custers, B. [doi:10.1016/j.techfore.2025.124202](https://doi.org/10.1016/j.techfore.2025.124202)
+
+7. *Exploring fairness in service robotics.* **Cambridge Forum on AI: Law and Governance** (2025). With Fosch-Villaronga, E., Shaffique, M. R., Schwed-Shenker, M. [doi:10.1017/cfl.2025.10013](https://doi.org/10.1017/cfl.2025.10013)
+
+#### Submitted
+
+1. *Importance of Consistent Definitions in Robotics: A Systematic Review Exploring ‘Physical Assistant Robots’ and ‘Physically Assistive Robots’.* **Journal of Intelligent & Robotic Systems** (under review). With Shaffique, M. R., Fosch-Villaronga, E., and van der Hof, S.
 
 #### Book Chapters
 
