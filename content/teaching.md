@@ -4,9 +4,9 @@ title = "Teaching"
 
 #### Courses
 
-1. *Dirección Financiera de la Empresa Turística* (29039). Bachelor's Degree in Tourism, Universitat de les Illes Balears (Ibiza campus), 2026–2027.
+1. *Dirección Financiera de la Empresa Turística* (29039). Bachelor's Degree in Tourism, Universitat de les Illes Balears (Ibiza campus), 2026–2027. [Materials](https://github.com/antonimut/29039-direccion-financiera-turistica)
 
-2. *Direcció Financera / Financial Management* (21217). Bachelor's Degree in Business Administration (GADE), Double Degree in Business Administration and Tourism (GATUR) and Double Degree in Business Administration and Law (GAD), Universitat de les Illes Balears, 2025–2026.
+2. *Direcció Financera / Financial Management* (21217). Bachelor's Degree in Business Administration (GADE), Double Degree in Business Administration and Tourism (GATUR) and Double Degree in Business Administration and Law (GAD), Universitat de les Illes Balears, 2025–2026. [Materials](https://github.com/antonimut/21217-financial-management-)
 
 3. *Law and Artificial Intelligence* (22989278). Minor Artificial Intelligence and Society, Leiden Law School, Leiden University, 2024–2025.
 
